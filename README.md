@@ -18,6 +18,7 @@ Step 4: Now change the Docker repo name in the docker-compose.yml file and run t
 docker-compose up
 
 
+
 2. Kubernetes (Go to Kubernetes folder)
 
 Step 1: Run the following commands on the kubernetes master:
